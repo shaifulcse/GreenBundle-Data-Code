@@ -1,0 +1,21 @@
+1) all-emitters-all-rate:
+
+This contain energy measurements of the benchmark app for all the combinations---for all the numbers of emitters and event generation rate. 
+
+Executing python graph.py will draw the graph (Figure 2 in the paper). 
+In graph.py, one might have to change few parameters to have the exact layout as in the paper. 
+
+
+2) bundling-dropping:
+
+This contain the energy measurements for all ratee for a given number of emitters for all the versions of the benchmark app: Nobundling, Bundling with 0.1 second waiting, Dropping with 0.1 second waiting and so on. These are to draw Figure 3 in the paper. 
+
+Executing python graph.py will draw the graph (current one will draw for 1 emitter only). 
+
+One just need to change three lines in graph.py for other number of emitters. 
+
+1) fr=open("emitter_1.csv","r") ### e.g., change to emitter_2.csv for drawing graphs with 2 emitters
+
+2) plt.title("Number of emitters = 1", fontsize=22) ### change to emitters = 2
+
+3) ax.set_ylim(20,33) ### adjust the limit for a new graph.. Initially, one should comment out this line. 

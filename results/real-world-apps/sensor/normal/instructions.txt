@@ -1,0 +1,11 @@
+
+
+WITHOUT VARYING THE SAMPLING RATE.
+
+contains energy measurements for all the versions of the ColorPicker app: Original, Bundling and Dropping. 
+
+Energy measurements of two different GreenMiners are available. 
+
+Executing python graph.py will draw the graph (Figure 6). 
+
+

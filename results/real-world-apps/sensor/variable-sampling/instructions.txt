@@ -1,0 +1,11 @@
+
+
+WITH DIFFERENT SENSOR SAMPLING (FIGURE 5 IN THE PAPER)
+
+contains energy measurements for all the versions of the ColorPicker app: Original, Bundling and Dropping. 
+
+Energy measurements of two different GreenMiners are available. 
+
+Executing python graph.py will draw the graph (Figure 7). 
+
+

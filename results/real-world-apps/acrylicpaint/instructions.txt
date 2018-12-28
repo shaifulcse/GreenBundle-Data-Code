@@ -1,0 +1,23 @@
+
+1) energy:
+
+contains energy measurements for all the versions of the AcrylicPaint app: Original, Bundling and Dropping. 
+
+Energy measurements of two different GreenMiners are available. 
+
+Executing python graph.py will draw the graph (Figure 6). 
+
+
+2) resource:
+
+cntx.csv contains measurements of context switches. 
+
+Executing python graph_cntxt.py will draw the graph for context swithces (Figure 6, second graph).
+
+Similarly,
+
+cpu.csv contains measurements of cpu jiffies. 
+
+Executing python graph_cpu.py will draw the graph for context swithces (Figure 6, first graph).
+  
+
