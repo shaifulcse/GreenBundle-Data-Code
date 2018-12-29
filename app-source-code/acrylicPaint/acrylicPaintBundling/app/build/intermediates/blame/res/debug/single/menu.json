@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/acrylicPaintIOriginal/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/acrylicPaintIOriginal/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/acrylicPaint/acrylicPaintBundling/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/acrylicPaint/acrylicPaintBundling/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/acrylicPaint/acrylicPaintDropping/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/acrylicPaint/acrylicPaintDropping/app/src/main/res/menu/main.xml"
+    }
+]

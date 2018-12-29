@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">Info</string>
+    <string name="about_description">
+
+&lt;h1>Acrylic Paint&lt;/h1>
+&lt;p>Grazie per aver scelto Acrylic Paint!&lt;br />Un &lt;b>software libero&lt;/b> che libera la tua creatività!&lt;/p>
+
+&lt;h2>Crediti&lt;/h2>
+&lt;p>Ringraziamenti speciali a:&lt;br>
+&lt;b>&lt;a href="https://github.com/anupam1525>Anupam Shrivastava&lt;/a>&lt;/b> per la prima versione dell'app. È ora inattivo.&lt;br>
+&lt;b>&lt;a href="https://github.com/valerio-bozzolan">Valerio Bozzolan&lt;/a>&lt;/b> per l'intensa revisione al codice sorgente. È l'attuale manutentore di questa versione.&lt;br>
+&lt;b>&lt;a href="https://github.com/marcogagino-22">Marco Gagino&lt;/a>&lt;/b> per il profondo restyling e grande spirito di collaborazione!
+&lt;/p>
+
+&lt;h2>Licenze&lt;/h2>
+&lt;p>Questa versione di Acrylic Paint e il relativo codice sorgente sono distribuiti da &lt;a href="mailto:valerio.bozzolan@studenti.polito.it?subject=AcrylicPaint">Valerio Bozzolan&lt;/a> sotto i
+termini della licenza &lt;i>GNU GPLv3+&lt;/i>.
+Ciò è per permettere a chiunque di usare, studiare, migliorare e ricondividere quest\'app con &lt;b>qualunque mezzo&lt;/b> e per &lt;b>qualsiasi scopo&lt;/b> a patto di mantenere sempre questi diritti.&lt;/p>
+&lt;p>Quest\'applicazione è rilasciata &lt;b>nella speranza che sia utile a tutti&lt;/b>, ma senza alcuna garanzia (nè garanzie di commerciabilità).&lt;/p>
+
+&lt;h2>Note&lt;/h2>
+&lt;p>Se ti accorgi di qualche difetto o se hai idee, usa il &lt;a href="https://github.com/valerio-bozzolan/AcrylicPaint/issues">bug tracker&lt;/a>.&lt;/p>
+&lt;p>Contribuisci al codice sorgente su &lt;a href="https://github.com/valerio-bozzolan/AcrylicPaint">valerio-bozzolan/AcrylicPaint&lt;/a> @GitHub.&lt;/p>
+&lt;p>Leggi il file &lt;a href="https://github.com/valerio-bozzolan/AcrylicPaint/blob/master/README.md">README&lt;/a> per maggiori informazioni.&lt;/p>
+
+&lt;p>Divertiti!&lt;/p>
+    
+    </string>
+    <string name="app_description">Acrylic Paint è un software libero che libera la tua creatività!\n\nPremi il tasto menù per più opzioni.\n\nUn ringraziamento all\'autore originale Anupam Shrivastava, a Valerio Bozzolan per la riesumazione del progetto ed a Marco Gagino per il sostegno spaventoso. Grazie a tutti i contributori!\n\n…Divertiti! :)</string>
+    <string name="blur">Sfocato</string>
+    <string name="brush_size">Dimensione</string>
+    <string name="choose_width">Scegli dimensione:</string>
+    <string name="clear_all">Pulisci tutto</string>
+    <string name="color">Colore</string>
+    <string name="continue_fuck">Continua</string>
+    <string name="emboss">Grassetto</string>
+    <string name="erase">Gomma</string>
+    <string name="here_is_your_canvas">Qui c\'è la tua tela. Inizia a colorare!</string>
+    <string name="no_way_to_share">Non risulta alcuna app con cui condividere la tua opera…</string>
+    <string name="normal">Matita</string>
+    <string name="open_image">Apri immagine come sfondo</string>
+    <string name="pick_color">Scegli un Colore</string>
+    <string name="press_back_again">Premi ancora per uscire!\n(Hai salvato?)</string>
+    <string name="save">Salva</string>
+    <string name="saved_your_location_to">La tua creazione è stata salvata in %1$s</string>
+    <string name="select">Seleziona</string>
+    <string name="select_image_to_open">Seleziona l\'immagine da aprire</string>
+    <string name="share">Condividi</string>
+    <string name="share_text_template">Condividi come testo</string>
+    <string name="share_title_template">Guarda cosa ho dipinto con Acrylic Paint! --- Acrylic Paint (Simple finger painting) - https://f-droid.org/app/anupam.acrylic</string>
+    <string name="title_activity_about">Informazioni</string>
+    <string name="toolbox_share_title">Condividi</string>
+    <string name="your_selected_size_is">Dimensione scelta: %1$s</string>
+</resources>

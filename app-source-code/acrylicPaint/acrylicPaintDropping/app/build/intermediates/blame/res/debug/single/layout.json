@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/acrylicPaintIOriginal/app/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/acrylicPaintIOriginal/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/acrylicPaint/acrylicPaintBundling/app/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/acrylicPaint/acrylicPaintBundling/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/acrylicPaint/acrylicPaintDropping/app/build/intermediates/res/merged/debug/layout/brush.xml",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/acrylicPaint/acrylicPaintDropping/app/src/main/res/layout/brush.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/acrylicPaint/acrylicPaintBundling/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/acrylicPaint/acrylicPaintBundling/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/acrylicPaint/acrylicPaintDropping/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/acrylicPaint/acrylicPaintDropping/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/acrylicPaintIOriginal/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/acrylicPaintIOriginal/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/acrylicPaint/acrylicPaintBundling/app/build/intermediates/res/merged/debug/layout/brush.xml",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/acrylicPaint/acrylicPaintBundling/app/src/main/res/layout/brush.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/acrylicPaintIOriginal/app/build/intermediates/res/merged/debug/layout/brush.xml",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/acrylicPaintIOriginal/app/src/main/res/layout/brush.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/acrylicPaint/acrylicPaintDropping/app/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/acrylicPaint/acrylicPaintDropping/app/src/main/res/layout/activity_about.xml"
+    }
+]

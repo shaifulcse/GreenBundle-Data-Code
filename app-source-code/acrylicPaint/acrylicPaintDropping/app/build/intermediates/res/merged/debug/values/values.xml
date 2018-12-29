@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <item name="CanvasId" type="id"/>
+    <string name="ability_disabled_need_newer_api_level">That ability is disabled because it requires a newer Android version (at least API level 17).</string>
+    <string name="about">About</string>
+    <string name="about_description">
+
+&lt;h1>Acrylic Paint&lt;/h1>
+&lt;p>Thanks for using Acrylic Paint!&lt;br />A &lt;b>Free and Open Source Software&lt;/b> to free your creativity!&lt;/p>
+
+&lt;h2>Credits&lt;/h2>
+&lt;p>Special thanks to:&lt;br>
+&lt;b>&lt;a href="https://github.com/anupam1525>Anupam Shrivastava&lt;/a>&lt;/b> for the former version of Acrylic Paint. Now he's inactive.&lt;br>
+&lt;b>&lt;a href="https://github.com/valerio-bozzolan">Valerio Bozzolan&lt;/a>&lt;/b> for the great work done reviewing the source code and optimising it. He currently carries on the work for this version of AcrylicPaint.&lt;br>
+&lt;b>&lt;a href="https://github.com/marcogagino-22">Marco Gagino&lt;/a>&lt;/b> for the thorough restyling and the great participation!
+&lt;/p>    
+
+&lt;h2>Licenses&lt;/h2>
+&lt;p>This version of Acrylic Paint and its source code are released by &lt;a href="https://boz.reyboz.it">Valerio Bozzolan&lt;/a> under the
+terms of the &lt;i>GNU GPLv3+&lt;/i> license.
+This license gives everyone the ability to use, study, better and share this app by &lt;b>any means&lt;/b> and for &lt;b>every purpose&lt;/b> as long as you offer these same rights to the others.&lt;/p>
+&lt;p>This app is distributed &lt;b>in the hope that it will be useful to everyone&lt;/b>, but without any warranty; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.&lt;/p>
+
+&lt;h2>Note&lt;/h2>
+&lt;p>If you notice any problem or if you have some ideas feel free to use the &lt;a href="https://github.com/valerio-bozzolan/AcrylicPaint/issues">bug tracker&lt;/a>.&lt;/p>
+&lt;p>Contribute to the source code: &lt;a href="https://github.com/valerio-bozzolan/AcrylicPaint">valerio-bozzolan/AcrylicPaint&lt;/a> @GitHub.&lt;/p>
+&lt;p>Read the &lt;a href="https://github.com/valerio-bozzolan/AcrylicPaint/blob/master/README.md">README&lt;/a> file for further information.&lt;/p>
+
+&lt;p>Have fun!&lt;/p> 
+    
+    </string>
+    <string name="app_description">Acrylic Paint is a Free and Open Source Software that frees your creativity!\n\nPress menu for more options.\n\nThanks to Anupam Shrivastava for the idea, to Valerio Bozzolan for reviving the project and the physicist Marco Gagino for the terrific support. Thanks to all the contributors!\n\nHappy painting :)</string>
+    <string name="app_name">Acrylic Paint</string>
+    <string name="blur">Blur</string>
+    <string name="brush_size">Brush size</string>
+    <string name="choose_width">Brush size</string>
+    <string name="clear_all">Erase entire foreground</string>
+    <string name="color">Color</string>
+    <string name="color_extracted">New color extracted</string>
+    <string name="continue_fuck">Continue</string>
+    <string name="emboss">Bold</string>
+    <string name="erase">Erase</string>
+    <string name="extract_color">Extract a color</string>
+    <string name="fill_background_with_color">Fill background with color</string>
+    <string name="here_is_your_canvas">Here is your canvas. Start to paint!</string>
+    <string name="no_way_to_share">Can\'t locate an app to share with…</string>
+    <string name="normal">Pencil</string>
+    <string name="ok">OK</string>
+    <string name="open_image">Open image as background</string>
+    <string name="pick_color">Pick a Color</string>
+    <string name="press_back_again">Press back again to exit!\n(Losing all the unsaved work)</string>
+    <string name="save">Save</string>
+    <string name="saved_your_location_to">Saved your artwork to %1$s</string>
+    <string name="select">Select</string>
+    <string name="select_image_to_open">Select image to open</string>
+    <string name="share">Share</string>
+    <string name="share_text_template">Share as text</string>
+    <string name="share_title_template">Look at what I painted with Acrylic Paint! --- Acrylic Paint (Simple finger painting) - https://f-droid.org/app/anupam.acrylic</string>
+    <string name="smudge">Smudge</string>
+    <string name="tap_to_extract_color">Tap anywhere to extract a color</string>
+    <string name="title_activity_about">About</string>
+    <string name="toolbox_share_title">Share</string>
+    <string name="your_selected_size_is">Selected size: %1$s</string>
+    <style name="MyActionBar" parent="@android:style/Widget.DeviceDefault.Light.ActionBar">
+        <item name="android:background">@drawable/actionbar_background</item>
+    </style>
+    <style name="Theme" parent="@android:style/Theme.DeviceDefault.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+        <item name="android:windowNoTitle">false</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>
