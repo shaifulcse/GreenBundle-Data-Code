@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="settings">プリファレンスの例</string>
+    <string name="customPref">マイ プリファレンス</string>
+    <string name="customPref2">別のプリファレンス</string>
+    <string name="selection">選択した色はダイアログ番号用&#160;</string>
+    <string name="is">&#160;は:&#160;</string>
+
+</resources>

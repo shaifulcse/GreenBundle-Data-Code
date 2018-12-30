@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="settings">Preference example</string>
+    <string name="customPref">My preference</string>
+    <string name="customPref2">Another preference</string>
+    <string name="selection">Selected color is for dialog number&#160;</string>
+    <string name="is">&#160;is:&#160;</string>
+
+    <!-- Theme options -->
+    <string name="pref_theme_title">App theme</string>
+    <string name="themesum">Choose your preferred theme</string>
+    <string name="pref_theme" translatable="false">pref_theme</string>
+    <string name="pref_theme_list" translatable="false">pref_theme_list</string>
+    <string name="light_theme">Light</string>
+    <string name="dark_theme">Dark</string>
+</resources>

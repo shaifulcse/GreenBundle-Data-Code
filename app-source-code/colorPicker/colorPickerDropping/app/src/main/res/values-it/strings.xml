@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Esempio</string>
+    <string name="settings">Esempio preference</string>
+    <string name="customPref">La mia preference</string>
+    <string name="customPref2">Un\'altra preference</string>
+    <string name="selection">Il colore selezionato per il dialog numero&#160;</string>
+    <string name="is">&#160;è:&#160;</string>
+    <string name="pref_theme_title">Tema app</string>
+    <string name="themesum">Scegli il tuo tema preferito</string>
+    <string name="light_theme">Chiaro</string>
+    <string name="dark_theme">Scuro</string>
+</resources>
