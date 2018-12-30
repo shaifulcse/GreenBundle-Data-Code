@@ -1,0 +1,4 @@
+#Sat Dec 29 17:18:02 MST 2018
+base.0=/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorDropping/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

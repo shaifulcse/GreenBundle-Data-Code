@@ -1,0 +1,229 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitignore
+* .idea/
+* .idea/encodings.xml
+* .idea/misc.xml
+* .idea/workspace.xml
+* LICENSE.txt
+* README
+* app/
+* app/build.gradle
+* app/src/
+* app/src/main/
+* app/src/main/AndroidManifest.xml
+* app/src/main/java/
+* app/src/main/java/de/
+* app/src/main/java/de/onyxbits/
+* app/src/main/java/de/onyxbits/sensorreadout/
+* app/src/main/java/de/onyxbits/sensorreadout/AppRater.java
+* app/src/main/java/de/onyxbits/sensorreadout/ExportTask.java
+* app/src/main/java/de/onyxbits/sensorreadout/OverviewActivity.java
+* app/src/main/java/de/onyxbits/sensorreadout/ReadoutActivity.java
+* app/src/main/java/de/onyxbits/sensorreadout/SensorAdapter.java
+* app/src/main/java/de/onyxbits/sensorreadout/Ticker.java
+* app/src/main/java/org/
+* app/src/main/java/org/achartengine/
+* app/src/main/java/org/achartengine/ChartFactory.java
+* app/src/main/java/org/achartengine/GraphicalActivity.java
+* app/src/main/java/org/achartengine/GraphicalView.java
+* app/src/main/java/org/achartengine/ITouchHandler.java
+* app/src/main/java/org/achartengine/TouchHandler.java
+* app/src/main/java/org/achartengine/TouchHandlerOld.java
+* app/src/main/java/org/achartengine/chart/
+* app/src/main/java/org/achartengine/chart/AbstractChart.java
+* app/src/main/java/org/achartengine/chart/BarChart.java
+* app/src/main/java/org/achartengine/chart/BubbleChart.java
+* app/src/main/java/org/achartengine/chart/ClickableArea.java
+* app/src/main/java/org/achartengine/chart/CombinedXYChart.java
+* app/src/main/java/org/achartengine/chart/CubicLineChart.java
+* app/src/main/java/org/achartengine/chart/DialChart.java
+* app/src/main/java/org/achartengine/chart/DoughnutChart.java
+* app/src/main/java/org/achartengine/chart/LineChart.java
+* app/src/main/java/org/achartengine/chart/PieChart.java
+* app/src/main/java/org/achartengine/chart/PieMapper.java
+* app/src/main/java/org/achartengine/chart/PieSegment.java
+* app/src/main/java/org/achartengine/chart/PointStyle.java
+* app/src/main/java/org/achartengine/chart/RangeBarChart.java
+* app/src/main/java/org/achartengine/chart/RangeStackedBarChart.java
+* app/src/main/java/org/achartengine/chart/RoundChart.java
+* app/src/main/java/org/achartengine/chart/ScatterChart.java
+* app/src/main/java/org/achartengine/chart/TimeChart.java
+* app/src/main/java/org/achartengine/chart/XYChart.java
+* app/src/main/java/org/achartengine/model/
+* app/src/main/java/org/achartengine/model/CategorySeries.java
+* app/src/main/java/org/achartengine/model/MultipleCategorySeries.java
+* app/src/main/java/org/achartengine/model/Point.java
+* app/src/main/java/org/achartengine/model/RangeCategorySeries.java
+* app/src/main/java/org/achartengine/model/SeriesSelection.java
+* app/src/main/java/org/achartengine/model/TimeSeries.java
+* app/src/main/java/org/achartengine/model/XYMultipleSeriesDataset.java
+* app/src/main/java/org/achartengine/model/XYSeries.java
+* app/src/main/java/org/achartengine/model/XYValueSeries.java
+* app/src/main/java/org/achartengine/renderer/
+* app/src/main/java/org/achartengine/renderer/BasicStroke.java
+* app/src/main/java/org/achartengine/renderer/DefaultRenderer.java
+* app/src/main/java/org/achartengine/renderer/DialRenderer.java
+* app/src/main/java/org/achartengine/renderer/SimpleSeriesRenderer.java
+* app/src/main/java/org/achartengine/renderer/XYMultipleSeriesRenderer.java
+* app/src/main/java/org/achartengine/renderer/XYSeriesRenderer.java
+* app/src/main/java/org/achartengine/tools/
+* app/src/main/java/org/achartengine/tools/AbstractTool.java
+* app/src/main/java/org/achartengine/tools/FitZoom.java
+* app/src/main/java/org/achartengine/tools/Pan.java
+* app/src/main/java/org/achartengine/tools/PanListener.java
+* app/src/main/java/org/achartengine/tools/Zoom.java
+* app/src/main/java/org/achartengine/tools/ZoomEvent.java
+* app/src/main/java/org/achartengine/tools/ZoomListener.java
+* app/src/main/java/org/achartengine/util/
+* app/src/main/java/org/achartengine/util/IndexXYMap.java
+* app/src/main/java/org/achartengine/util/MathHelper.java
+* app/src/main/java/org/achartengine/util/XYEntry.java
+* app/src/main/res/
+* app/src/main/res/drawable-hdpi/
+* app/src/main/res/drawable-hdpi/ic_action_info.png
+* app/src/main/res/drawable-hdpi/ic_action_plug.png
+* app/src/main/res/drawable-hdpi/ic_action_restart.png
+* app/src/main/res/drawable-hdpi/ic_action_share.png
+* app/src/main/res/drawable-hdpi/ic_launcher.png
+* app/src/main/res/drawable-hdpi/ic_rate.png
+* app/src/main/res/drawable-hdpi/ic_sensor_1.png
+* app/src/main/res/drawable-hdpi/ic_sensor_10.png
+* app/src/main/res/drawable-hdpi/ic_sensor_11.png
+* app/src/main/res/drawable-hdpi/ic_sensor_12.png
+* app/src/main/res/drawable-hdpi/ic_sensor_13.png
+* app/src/main/res/drawable-hdpi/ic_sensor_2.png
+* app/src/main/res/drawable-hdpi/ic_sensor_3.png
+* app/src/main/res/drawable-hdpi/ic_sensor_4.png
+* app/src/main/res/drawable-hdpi/ic_sensor_5.png
+* app/src/main/res/drawable-hdpi/ic_sensor_6.png
+* app/src/main/res/drawable-hdpi/ic_sensor_8.png
+* app/src/main/res/drawable-hdpi/ic_sensor_9.png
+* app/src/main/res/drawable-hdpi/ic_sensor_unknown.png
+* app/src/main/res/drawable-mdpi/
+* app/src/main/res/drawable-mdpi/ic_action_info.png
+* app/src/main/res/drawable-mdpi/ic_action_plug.png
+* app/src/main/res/drawable-mdpi/ic_action_restart.png
+* app/src/main/res/drawable-mdpi/ic_action_share.png
+* app/src/main/res/drawable-mdpi/ic_launcher.png
+* app/src/main/res/drawable-mdpi/ic_rate.png
+* app/src/main/res/drawable-mdpi/ic_sensor_1.png
+* app/src/main/res/drawable-mdpi/ic_sensor_10.png
+* app/src/main/res/drawable-mdpi/ic_sensor_11.png
+* app/src/main/res/drawable-mdpi/ic_sensor_12.png
+* app/src/main/res/drawable-mdpi/ic_sensor_13.png
+* app/src/main/res/drawable-mdpi/ic_sensor_2.png
+* app/src/main/res/drawable-mdpi/ic_sensor_3.png
+* app/src/main/res/drawable-mdpi/ic_sensor_4.png
+* app/src/main/res/drawable-mdpi/ic_sensor_5.png
+* app/src/main/res/drawable-mdpi/ic_sensor_6.png
+* app/src/main/res/drawable-mdpi/ic_sensor_8.png
+* app/src/main/res/drawable-mdpi/ic_sensor_9.png
+* app/src/main/res/drawable-mdpi/ic_sensor_unknown.png
+* app/src/main/res/drawable-xhdpi/
+* app/src/main/res/drawable-xhdpi/ic_action_info.png
+* app/src/main/res/drawable-xhdpi/ic_action_plug.png
+* app/src/main/res/drawable-xhdpi/ic_action_restart.png
+* app/src/main/res/drawable-xhdpi/ic_action_share.png
+* app/src/main/res/drawable-xhdpi/ic_launcher.png
+* app/src/main/res/drawable-xxhdpi/
+* app/src/main/res/drawable-xxhdpi/ic_action_restart.png
+* app/src/main/res/drawable-xxhdpi/ic_launcher.png
+* app/src/main/res/drawable/
+* app/src/main/res/drawable/ic_launcher.png
+* app/src/main/res/drawable/ic_rate.png
+* app/src/main/res/drawable/ic_sensor_1.png
+* app/src/main/res/drawable/ic_sensor_10.png
+* app/src/main/res/drawable/ic_sensor_11.png
+* app/src/main/res/drawable/ic_sensor_12.png
+* app/src/main/res/drawable/ic_sensor_13.png
+* app/src/main/res/drawable/ic_sensor_2.png
+* app/src/main/res/drawable/ic_sensor_3.png
+* app/src/main/res/drawable/ic_sensor_4.png
+* app/src/main/res/drawable/ic_sensor_5.png
+* app/src/main/res/drawable/ic_sensor_6.png
+* app/src/main/res/drawable/ic_sensor_8.png
+* app/src/main/res/drawable/ic_sensor_9.png
+* app/src/main/res/drawable/ic_sensor_unknown.png
+* app/src/main/res/layout/
+* app/src/main/res/layout/identifierplate.xml
+* app/src/main/res/layout/main.xml
+* app/src/main/res/layout/readout_pending.xml
+* app/src/main/res/layout/verbose.xml
+* app/src/main/res/menu/
+* app/src/main/res/menu/overview.xml
+* app/src/main/res/menu/readout.xml
+* app/src/main/res/values-fr/
+* app/src/main/res/values-fr/strings.xml
+* app/src/main/res/values-v11/
+* app/src/main/res/values-v11/styles.xml
+* app/src/main/res/values-v14/
+* app/src/main/res/values-v14/styles.xml
+* app/src/main/res/values/
+* app/src/main/res/values/strings.xml
+* app/src/main/res/values/styles.xml
+* app/src/main/resources/
+* app/src/main/resources/org/
+* app/src/main/resources/org/achartengine/
+* app/src/main/resources/org/achartengine/chart/
+* app/src/main/resources/org/achartengine/chart/package.html
+* app/src/main/resources/org/achartengine/image/
+* app/src/main/resources/org/achartengine/image/zoom-1.png
+* app/src/main/resources/org/achartengine/image/zoom_in.png
+* app/src/main/resources/org/achartengine/image/zoom_out.png
+* app/src/main/resources/org/achartengine/model/
+* app/src/main/resources/org/achartengine/model/package.html
+* app/src/main/resources/org/achartengine/package.html
+* app/src/main/resources/org/achartengine/renderer/
+* app/src/main/resources/org/achartengine/renderer/package.html
+* app/src/main/resources/org/achartengine/util/
+* app/src/main/resources/org/achartengine/util/package.html
+* build.gradle
+* custom_rules.xml
+* gradle/
+* gradle/wrapper/
+* gradle/wrapper/gradle-wrapper.jar
+* gradle/wrapper/gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* proguard-project.txt
+* settings.gradle
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+* src/org/achartengine/chart/package.html => app/src/main/resources/org/achartengine/chart/package.html
+* src/org/achartengine/image/zoom-1.png => app/src/main/resources/org/achartengine/image/zoom-1.png
+* src/org/achartengine/image/zoom_in.png => app/src/main/resources/org/achartengine/image/zoom_in.png
+* src/org/achartengine/image/zoom_out.png => app/src/main/resources/org/achartengine/image/zoom_out.png
+* src/org/achartengine/model/package.html => app/src/main/resources/org/achartengine/model/package.html
+* src/org/achartengine/package.html => app/src/main/resources/org/achartengine/package.html
+* src/org/achartengine/renderer/package.html => app/src/main/resources/org/achartengine/renderer/package.html
+* src/org/achartengine/util/package.html => app/src/main/resources/org/achartengine/util/package.html
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

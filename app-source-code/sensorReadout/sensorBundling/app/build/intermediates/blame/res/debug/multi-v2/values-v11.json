@@ -1,0 +1,100 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/shaiful/research/mvc-energy-tradeoff/projects/android-architecture/sensorreadout-master/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/home/shaiful/research/mvc-energy-tradeoff/projects/android-architecture/sensorreadout-master/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "1",
+                        "startOffsets": "168",
+                        "endLines": "8",
+                        "endColumns": "9",
+                        "endOffsets": "285"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "9",
+                        "endOffsets": "172"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorBundling/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorBundling/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "1",
+                        "startOffsets": "168",
+                        "endLines": "8",
+                        "endColumns": "9",
+                        "endOffsets": "285"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "9",
+                        "endOffsets": "172"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorBundling/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorBundling/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "1",
+                        "startOffsets": "168",
+                        "endLines": "8",
+                        "endColumns": "9",
+                        "endOffsets": "285"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "9",
+                        "endOffsets": "172"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shaiful/research/mvc-energy-tradeoff/benchmark/mvc_energy/sensor_readout/sensorBundling/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/home/shaiful/research/mvc-energy-tradeoff/benchmark/mvc_energy/sensor_readout/sensorBundling/app/src/main/res/values-v11/styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "1",
+                        "startOffsets": "168",
+                        "endLines": "8",
+                        "endColumns": "9",
+                        "endOffsets": "285"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "9",
+                        "endOffsets": "172"
+                    }
+                }
+            ]
+        }
+    ]
+}

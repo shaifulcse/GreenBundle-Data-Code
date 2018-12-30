@@ -1,0 +1,530 @@
+[
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_restart.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_action_restart.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sensor_5.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_sensor_5.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/layout_verbose.xml.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/layout/verbose.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sensor_11.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_sensor_11.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_sensor_5.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable/ic_sensor_5.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_sensor_10.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable/ic_sensor_10.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sensor_3.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_sensor_3.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/menu_readout.xml.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/menu/readout.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sensor_10.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_sensor_10.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sensor_11.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_sensor_11.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_rate.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable/ic_rate.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sensor_10.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_sensor_10.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sensor_8.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_sensor_8.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_restart.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_action_restart.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sensor_2.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_sensor_2.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_plug.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_action_plug.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_sensor_4.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable/ic_sensor_4.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_sensor_11.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable/ic_sensor_11.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_sensor_5.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable/ic_sensor_5.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sensor_9.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_sensor_9.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sensor_1.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_sensor_1.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sensor_4.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_sensor_4.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_restart.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-xxhdpi/ic_action_restart.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_plug.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_action_plug.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sensor_unknown.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_sensor_unknown.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_info.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-xhdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/layout_identifierplate.xml.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/layout/identifierplate.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sensor_8.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_sensor_8.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_sensor_12.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable/ic_sensor_12.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sensor_6.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_sensor_6.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sensor_5.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_sensor_5.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sensor_10.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_sensor_10.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sensor_11.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_sensor_11.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_launcher.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_plug.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-xhdpi/ic_action_plug.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_rate.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_rate.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sensor_12.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_sensor_12.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sensor_12.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_sensor_12.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_rate.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_rate.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sensor_13.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_sensor_13.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sensor_8.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_sensor_8.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_sensor_2.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable/ic_sensor_2.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/layout_readout_pending.xml.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/layout/readout_pending.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_plug.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-xhdpi/ic_action_plug.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sensor_9.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_sensor_9.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/menu_overview.xml.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/menu/overview.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sensor_1.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_sensor_1.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sensor_2.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_sensor_2.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/layout_verbose.xml.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/layout/verbose.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_sensor_13.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable/ic_sensor_13.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/menu_readout.xml.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/menu/readout.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_sensor_12.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable/ic_sensor_12.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_sensor_4.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable/ic_sensor_4.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_info.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-xhdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_restart.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-xhdpi/ic_action_restart.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_share.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sensor_unknown.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_sensor_unknown.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sensor_3.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_sensor_3.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_sensor_1.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable/ic_sensor_1.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sensor_1.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_sensor_1.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sensor_unknown.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_sensor_unknown.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_sensor_10.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable/ic_sensor_10.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_sensor_8.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable/ic_sensor_8.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sensor_8.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_sensor_8.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_rate.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable/ic_rate.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sensor_4.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_sensor_4.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_share.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-xhdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/menu_overview.xml.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/menu/overview.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_restart.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_action_restart.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_launcher.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_action_restart.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-xxhdpi/ic_action_restart.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sensor_4.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_sensor_4.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_sensor_13.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable/ic_sensor_13.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sensor_13.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_sensor_13.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_sensor_8.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable/ic_sensor_8.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_info.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_restart.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_action_restart.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_sensor_unknown.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable/ic_sensor_unknown.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sensor_5.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_sensor_5.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sensor_6.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_sensor_6.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_sensor_9.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable/ic_sensor_9.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sensor_13.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_sensor_13.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/layout_identifierplate.xml.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/layout/identifierplate.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_share.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_share.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sensor_5.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_sensor_5.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sensor_2.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_sensor_2.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_launcher.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_sensor_2.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable/ic_sensor_2.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_sensor_1.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable/ic_sensor_1.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_sensor_unknown.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable/ic_sensor_unknown.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_plug.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_action_plug.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sensor_9.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_sensor_9.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sensor_unknown.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_sensor_unknown.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sensor_3.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_sensor_3.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sensor_2.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_sensor_2.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/layout_readout_pending.xml.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/layout/readout_pending.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_plug.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_action_plug.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_info.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_sensor_6.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable/ic_sensor_6.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_sensor_3.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable/ic_sensor_3.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sensor_6.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_sensor_6.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_sensor_11.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable/ic_sensor_11.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sensor_9.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_sensor_9.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_action_info.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_sensor_9.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable/ic_sensor_9.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sensor_12.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_sensor_12.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sensor_13.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_sensor_13.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sensor_3.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_sensor_3.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_restart.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-xhdpi/ic_action_restart.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_action_share.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-xhdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_info.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_action_info.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sensor_1.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_sensor_1.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sensor_6.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_sensor_6.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_sensor_11.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_sensor_11.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_sensor_3.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable/ic_sensor_3.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_rate.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_rate.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sensor_10.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_sensor_10.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sensor_12.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_sensor_12.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_action_share.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/drawable-hdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable_ic_sensor_6.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable/ic_sensor_6.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_sensor_4.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_sensor_4.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_rate.png.flat",
+        "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/drawable-mdpi/ic_rate.png"
+    }
+]

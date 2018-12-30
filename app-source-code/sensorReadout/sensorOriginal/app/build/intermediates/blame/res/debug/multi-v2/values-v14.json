@@ -1,0 +1,52 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/home/shaiful/research/greenbundle/artifacts/GreenBundle-Data-Code/app-source-code/sensorReadout/sensorOriginal/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "1",
+                        "startOffsets": "211",
+                        "endLines": "9",
+                        "endColumns": "9",
+                        "endOffsets": "328"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "9",
+                        "endOffsets": "172"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml",
+            "map": [
+                {
+                    "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/sensor_readout/sensorOriginal/app/src/main/res/values-v14/styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "1",
+                        "startOffsets": "211",
+                        "endLines": "9",
+                        "endColumns": "9",
+                        "endOffsets": "328"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "9",
+                        "endOffsets": "172"
+                    }
+                }
+            ]
+        }
+    ]
+}
