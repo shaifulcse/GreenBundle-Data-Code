@@ -1,0 +1,4 @@
+#Mon Jul 23 16:16:50 MDT 2018
+base.0=/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/Angulo/AnguloOriginal/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

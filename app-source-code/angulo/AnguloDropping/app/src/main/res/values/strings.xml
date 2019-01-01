@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Angulo.  Measure angles and slopes with Android!
+    Copyright (C) 2011-2012  Daniel Kraft <d@domob.eu>
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
+
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+-->
+<resources>
+  <string name="app_name">Angulo</string>
+  <string name="app_version">1.1</string>
+
+  <string name="setReference">Set Reference</string>
+  <string name="freeze">Freeze</string>
+  <string name="unfreeze">Unfreeze</string>
+  <string name="gravity">Gravity</string>
+  <string name="magnetic">Magnetic</string>
+
+  <string name="help">Help</string>
+  <string name="about">About</string>
+
+  <string name="help_title">Quick Guide</string>
+  <string name="help_para1">To measure an angle (slope or inclination), simply
+point the device into one direction, press <b>Set Reference</b>, and point
+it into the other direction.</string>
+  <string name="help_para2">Then the rotation angle relative to gravity (down)
+and magnetic field (towards magnetic pole) is displayed.  The green number
+is a combined, usually more accurate angle.</string>
+  <string name="help_para3">For easy reading, you can also <b>Freeze</b>
+(and later <b>Unfreeze</b>).</string>
+  <string name="help_para4">See also the
+<a href="http://www.domob.eu/projects/angulo.php">webpage</a> for more
+details.</string>
+
+  <string name="about_title">About and Copyright</string>
+  <string name="about_version">This is <b>%s</b> version <b>%s</b>.</string>
+  <string name="about_para1">Copyright (C) 2011-2012 by Daniel Kraft.
+Feel free to send me any comments or suggestions via
+<a href="mailto:d@domob.eu">email</a> or visit
+<a href="http://www.domob.eu/projects/angulo.php">Angulo\'s
+webpage</a>.</string>
+  <string name="about_para2">This program is free software: you can
+    redistribute it and/or modify
+    it under the terms of the
+    <a href="https://www.gnu.org/copyleft/gpl.html">GNU General
+    Public License</a> as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.</string>
+  <string name="about_para3">This program is distributed in the hope that it
+    will be useful,
+    but <i>without any warranty</i>; without even the implied warranty of
+    <i>merchantability</i> or <i>fitness for a particular purpose</i>.  See the
+    GNU General Public License for more details.</string>
+
+</resources>

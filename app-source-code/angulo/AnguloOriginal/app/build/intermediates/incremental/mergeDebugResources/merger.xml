@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/src/main/res"/><source path="/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/build/generated/res/rs/debug"/><source path="/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/src/main/res"><file name="main" path="/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/src/main/res/menu/main.xml" qualifiers="" type="menu"/><file path="/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/src/main/res/values-de/strings.xml" qualifiers="de"><string name="setReference">Referenzpunkt</string><string name="freeze">Sperren</string><string name="unfreeze">Entsperren</string><string name="gravity">Gravitation</string><string name="magnetic">Magnetfeld</string><string name="help">Hilfe</string><string name="about">Über</string><string name="help_title">Kurzanleitung</string><string name="help_para1">Um einen Winkel zu messen, mit dem Gerät in
+eine bestimmte Richtung zeigen, <b>Referenzpunkt</b> drücken, und dann auf
+einen zweiten Punkt ausrichten.</string><string name="help_para2">Dann wird der Rotationswinkel relativ zur
+Gravitation (nach unten) und dem magnetischen Feld (in Richtung des
+Magnetpols der Erde) angezeigt.  Die grüne Anzeige kombiniert beide
+Messungen und ist (meistens) ein genauerer Wert.</string><string name="help_para3">Um den Wert leicht ablesen zu können,
+<b>Sperren</b> (und später <b>Entsperren</b>) auswählen.</string><string name="help_para4">Mehr Informationen sind auch noch auf der
+<a href="http://www.domob.eu/projects/angulo.php">Webseite</a>
+zu finden.</string><string name="about_title">Copyright und Über</string><string name="about_version">Dies ist <b>%s</b>, Version <b>%s</b>.</string><string name="about_para1">Copyright (C) 2011-2012 bei Daniel Kraft.
+Ich freue mich über Kommentare und Vorschläge via
+<a href="mailto:d@domob.eu">Email</a>; siehe auch
+<a href="http://www.domob.eu/projects/angulo.php">Angulo\'s
+Webseite</a>.</string></file><file name="main" path="/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/src/main/res/layout/main.xml" qualifiers="" type="layout"/><file name="about" path="/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/src/main/res/layout/about.xml" qualifiers="" type="layout"/><file name="help" path="/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/src/main/res/layout/help.xml" qualifiers="" type="layout"/><file path="/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/src/main/res/values/strings.xml" qualifiers=""><string name="app_name">Angulo</string><string name="app_version">1.1</string><string name="setReference">Set Reference</string><string name="freeze">Freeze</string><string name="unfreeze">Unfreeze</string><string name="gravity">Gravity</string><string name="magnetic">Magnetic</string><string name="help">Help</string><string name="about">About</string><string name="help_title">Quick Guide</string><string name="help_para1">To measure an angle (slope or inclination), simply
+point the device into one direction, press <b>Set Reference</b>, and point
+it into the other direction.</string><string name="help_para2">Then the rotation angle relative to gravity (down)
+and magnetic field (towards magnetic pole) is displayed.  The green number
+is a combined, usually more accurate angle.</string><string name="help_para3">For easy reading, you can also <b>Freeze</b>
+(and later <b>Unfreeze</b>).</string><string name="help_para4">See also the
+<a href="http://www.domob.eu/projects/angulo.php">webpage</a> for more
+details.</string><string name="about_title">About and Copyright</string><string name="about_version">This is <b>%s</b> version <b>%s</b>.</string><string name="about_para1">Copyright (C) 2011-2012 by Daniel Kraft.
+Feel free to send me any comments or suggestions via
+<a href="mailto:d@domob.eu">email</a> or visit
+<a href="http://www.domob.eu/projects/angulo.php">Angulo\'s
+webpage</a>.</string><string name="about_para2">This program is free software: you can
+    redistribute it and/or modify
+    it under the terms of the
+    <a href="https://www.gnu.org/copyleft/gpl.html">GNU General
+    Public License</a> as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.</string><string name="about_para3">This program is distributed in the hope that it
+    will be useful,
+    but <i>without any warranty</i>; without even the implied warranty of
+    <i>merchantability</i> or <i>fitness for a particular purpose</i>.  See the
+    GNU General Public License for more details.</string></file><file name="icon" path="/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/src/main/res/drawable/icon.png" qualifiers="" type="drawable"/></source><source path="/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/build/generated/res/rs/debug"/><source path="/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/src/debug/res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/src/debug/res"/></dataSet><mergedItems/></merger>

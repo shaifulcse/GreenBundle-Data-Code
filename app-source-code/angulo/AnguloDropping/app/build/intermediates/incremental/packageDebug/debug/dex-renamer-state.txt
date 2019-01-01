@@ -1,0 +1,4 @@
+#Mon Dec 31 18:40:09 MST 2018
+base.0=/home/shaiful/test/AnguloDropping/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Dec 31 18:40:09 MST 2018
+0.baseType=DIRECTORY
+0.base=/home/shaiful/test/AnguloDropping/app/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

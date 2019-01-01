@@ -1,0 +1,52 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml",
+            "map": [
+                {
+                    "source": "/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/src/main/res/values-de/strings.xml",
+                    "from": {
+                        "startLines": "26,44,42,43,20,22,25,29,32,36,38,28,23,19,21",
+                        "startColumns": "2,2,2,2,2,2,2,2,2,2,2,2,2,2,2",
+                        "startOffsets": "1088,2051,1915,1972,871,958,1051,1177,1365,1629,1761,1126,1004,818,912",
+                        "endLines": "26,48,42,43,20,22,25,31,35,37,40,28,23,19,21",
+                        "endColumns": "36,22,56,78,40,45,36,40,57,65,19,50,45,52,45",
+                        "endOffsets": "1122,2302,1969,2048,909,1001,1085,1362,1626,1758,1911,1174,1047,868,955"
+                    },
+                    "to": {
+                        "startLines": "2,3,8,9,10,11,12,13,16,20,22,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,94,350,409,490,533,581,620,810,1076,1210,1365,1418,1466,1521",
+                        "endLines": "2,7,8,9,10,11,12,15,19,21,24,25,26,27,28",
+                        "endColumns": "38,22,58,80,42,47,38,40,57,65,19,52,47,54,47",
+                        "endOffsets": "89,345,404,485,528,576,615,805,1071,1205,1360,1413,1461,1516,1564"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/Angulo/AnguloOriginal/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-de/values-de.xml",
+            "map": [
+                {
+                    "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/Angulo/AnguloOriginal/app/src/main/res/values-de/strings.xml",
+                    "from": {
+                        "startLines": "26,44,42,43,20,22,25,29,32,36,38,28,23,19,21",
+                        "startColumns": "2,2,2,2,2,2,2,2,2,2,2,2,2,2,2",
+                        "startOffsets": "1088,2051,1915,1972,871,958,1051,1177,1365,1629,1761,1126,1004,818,912",
+                        "endLines": "26,48,42,43,20,22,25,31,35,37,40,28,23,19,21",
+                        "endColumns": "36,22,56,78,40,45,36,40,57,65,19,50,45,52,45",
+                        "endOffsets": "1122,2302,1969,2048,909,1001,1085,1362,1626,1758,1911,1174,1047,868,955"
+                    },
+                    "to": {
+                        "startLines": "2,3,8,9,10,11,12,13,16,20,22,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,94,350,409,490,533,581,620,810,1076,1210,1365,1418,1466,1521",
+                        "endLines": "2,7,8,9,10,11,12,15,19,21,24,25,26,27,28",
+                        "endColumns": "38,22,58,80,42,47,38,40,57,65,19,52,47,54,47",
+                        "endOffsets": "89,345,404,485,528,576,615,805,1071,1205,1360,1413,1461,1516,1564"
+                    }
+                }
+            ]
+        }
+    ]
+}

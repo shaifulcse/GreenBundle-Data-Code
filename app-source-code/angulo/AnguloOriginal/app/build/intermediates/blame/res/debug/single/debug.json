@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/build/intermediates/res/merged/debug/layout_about.xml.flat",
+        "source": "/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/src/main/res/layout/about.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/Angulo/AnguloOriginal/app/build/intermediates/res/merged/debug/layout_help.xml.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/Angulo/AnguloOriginal/app/src/main/res/layout/help.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/build/intermediates/res/merged/debug/drawable_icon.png.flat",
+        "source": "/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/build/intermediates/res/merged/debug/layout_help.xml.flat",
+        "source": "/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/src/main/res/layout/help.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/Angulo/AnguloOriginal/app/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/Angulo/AnguloOriginal/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/Angulo/AnguloOriginal/app/build/intermediates/res/merged/debug/layout_about.xml.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/Angulo/AnguloOriginal/app/src/main/res/layout/about.xml"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/Angulo/AnguloOriginal/app/build/intermediates/res/merged/debug/drawable_icon.png.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/Angulo/AnguloOriginal/app/src/main/res/drawable/icon.png"
+    },
+    {
+        "merged": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/Angulo/AnguloOriginal/app/build/intermediates/res/merged/debug/menu_main.xml.flat",
+        "source": "/home/shaiful/research/mvc-energy-bitbucket/mvc_energy/Angulo/AnguloOriginal/app/src/main/res/menu/main.xml"
+    }
+]

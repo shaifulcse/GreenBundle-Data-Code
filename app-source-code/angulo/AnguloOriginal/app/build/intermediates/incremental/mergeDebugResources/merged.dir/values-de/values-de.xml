@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="about">Über</string>
+    <string name="about_para1">Copyright (C) 2011-2012 bei Daniel Kraft.
+Ich freue mich über Kommentare und Vorschläge via
+<a href="mailto:d@domob.eu">Email</a>; siehe auch
+<a href="http://www.domob.eu/projects/angulo.php">Angulo\'s
+Webseite</a>.</string>
+    <string name="about_title">Copyright und Über</string>
+    <string name="about_version">Dies ist <b>%s</b>, Version <b>%s</b>.</string>
+    <string name="freeze">Sperren</string>
+    <string name="gravity">Gravitation</string>
+    <string name="help">Hilfe</string>
+    <string name="help_para1">Um einen Winkel zu messen, mit dem Gerät in
+eine bestimmte Richtung zeigen, <b>Referenzpunkt</b> drücken, und dann auf
+einen zweiten Punkt ausrichten.</string>
+    <string name="help_para2">Dann wird der Rotationswinkel relativ zur
+Gravitation (nach unten) und dem magnetischen Feld (in Richtung des
+Magnetpols der Erde) angezeigt.  Die grüne Anzeige kombiniert beide
+Messungen und ist (meistens) ein genauerer Wert.</string>
+    <string name="help_para3">Um den Wert leicht ablesen zu können,
+<b>Sperren</b> (und später <b>Entsperren</b>) auswählen.</string>
+    <string name="help_para4">Mehr Informationen sind auch noch auf der
+<a href="http://www.domob.eu/projects/angulo.php">Webseite</a>
+zu finden.</string>
+    <string name="help_title">Kurzanleitung</string>
+    <string name="magnetic">Magnetfeld</string>
+    <string name="setReference">Referenzpunkt</string>
+    <string name="unfreeze">Entsperren</string>
+</resources>

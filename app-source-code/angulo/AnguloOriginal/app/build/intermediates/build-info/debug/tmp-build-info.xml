@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="28"
+    build-mode="FULL"
+    density="420dpi"
+    format="10"
+    plugin-version="3.0.1"
+    timestamp="1545966238304"
+    token="-228674512805125657"
+    verifier="FULL_BUILD_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="102" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="15" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="/home/shaiful/research/greenbundle/data-code/mvc_energy/app_source_code/Angulo/AnguloOriginal/app/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+        type="RESOURCES" />
+
+</instant-run>
