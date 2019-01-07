@@ -11,7 +11,8 @@ There are two main directories: 1) replication and 2) extension.
 
 The replication directory contains information for reproducing the results presented in the paper. 
 
-The extension directory contain source code (and sample apks) of the benchmark and real-world apps for further studies. 
+The extension directory contain source code (and sample apks) of the benchmark and real-world apps for further studies
+in this direction. 
 
 
 1) replication:
@@ -51,7 +52,7 @@ The extension directory contain source code (and sample apks) of the benchmark a
    b) maintainability-analysis: 
   
        This directory describe how to calculate the DL-score used in the paper for analyzing maintenance cost. 
-       The tool was made commercial by the original authors, thus limiting us to share it publicly.
+       The tool we used was made commercial by the original authors, thus limiting us to share it publicly.
 
 
 
@@ -69,8 +70,9 @@ The extension directory contain source code (and sample apks) of the benchmark a
 
   b) apks:
 
-    This directory contains some of the sample apks of the selected versions of the real-world apps. This is for quick   
-    demonstraton in case building those apps from the source code is difficult (e.g., no Android Studio or similar 
-    tools are already installed). The benchmark app has only one version, because one can set the type of version 
-    (noBundling, Bundling, Dropping and other parameters at run-time). 
+    This directory contains some of the sample apks of the selected versions of the benchmark and real-world apps. 
+    This is for quick demonstraton in case building those apps from the source code is difficult (e.g., no Android 
+    Studio or similar tools are already installed). The benchmark app has only one version, because one can set 
+    the type of version at run-time (noBundling, Bundling, Dropping and other parameters such as bundling/dropping 
+    waiting time). 
   
