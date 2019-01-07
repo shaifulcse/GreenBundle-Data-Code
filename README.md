@@ -14,7 +14,8 @@ Requirements for running the python scripts for drawing graphs:
 3) Matplotlib 2.0
 sudo apt-get install python-matplotlib
 
-4) Seaborn: it was used for calculating confidence interval with bootstrapping 
+4) Seaborn: it was used for calculating confidence interval with bootstrapping. 
+
 One way to install seaborn:
 
 sudo apt install python-pip
