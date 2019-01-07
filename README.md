@@ -3,7 +3,8 @@
 Artifacts of ICSE 2019 research paper (technical track)
 
 GreenBundle: An Empirical Study on the Energy Impact of Bundled Processing.
-Authors: AUTHORS: Shaiful Chowdhury, Abram Hindle, Rick Kazman, Takumi Shuto, Ken Matsui and Yasutaka Kamei
+
+Authors: Shaiful Chowdhury, Abram Hindle, Rick Kazman, Takumi Shuto, Ken Matsui and Yasutaka Kamei
 
 
 There are two main directories: 1) replication and 2) extension. 
@@ -49,7 +50,8 @@ The extension directory contain source code (and sample apks) of the benchmark a
    
    b) maintainability-analysis: 
   
-       This directory describe how to calculate the DL-score used in the paper for analyzing maintenance cost. The tools was        made   commeercial by the original authors, limiting us to share it publicly.
+       This directory describe how to calculate the DL-score used in the paper for analyzing maintenance cost. 
+       The tool was made commercial by the original authors, thus limiting us to share it publicly.
 
 
 
@@ -70,5 +72,5 @@ The extension directory contain source code (and sample apks) of the benchmark a
     This directory contains some of the sample apks of the selected versions of the real-world apps. This is for quick   
     demonstraton in case building those apps from the source code is difficult (e.g., no Android Studio or similar 
     tools are already installed). The benchmark app has only one version, because one can set the type of version 
-    (noBundling, Bundling,    Dropping and other parameters at run-time). 
+    (noBundling, Bundling, Dropping and other parameters at run-time). 
   
