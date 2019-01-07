@@ -1,1 +1,0 @@
-For running the scripts to draw graphs, you must install Python, Matplotlib, and Seaborn as instructed in the root README file.
