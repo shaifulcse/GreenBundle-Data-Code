@@ -3,11 +3,14 @@
 Artifacts of ICSE 2019 research paper (technical track)
 
 GreenBundle: An Empirical Study on the Energy Impact of Bundled Processing.
+Authors: AUTHORS: Shaiful Chowdhury, Abram Hindle, Rick Kazman, Takumi Shuto, Ken Matsui and Yasutaka Kamei
+
+
 
 1) replication:
 
-   This directory contains measurements and scripts to generate the graphs used in the paper. 
-   There are two subdirectories. 
+   This directory contains information for reproducing the results presented in the paper. 
+   There are two sub-directories: a) results and b) maintainability-analysis.
    
    a) results:
 
@@ -37,7 +40,7 @@ GreenBundle: An Empirical Study on the Energy Impact of Bundled Processing.
    It is important to note that all measurements are shared. So one can draw graphs using any library. 
 
 
-   b) maintenance-analysis: 
+   b) maintainability-analysis: 
   
   This directory describe how to calculate the DL-score used in the paper for analyzing maintenance cost. The tools was made   commeercial by the original authors, limiting us to share it publicly.
 
