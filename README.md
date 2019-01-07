@@ -19,7 +19,9 @@ sudo apt-get install python-matplotlib
 One way to install seaborn:
 
 sudo apt install python-pip
+
 sudo -H pip2 install --upgrade pip
+
 sudo pip2 install seaborn
 
 
