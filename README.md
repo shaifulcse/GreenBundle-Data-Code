@@ -42,7 +42,6 @@ GreenBundle: An Empirical Study on the Energy Impact of Bundled Processing.
   This directory describe how to calculate the DL-score used in the paper for analyzing maintenance cost. The tools was made   commeercial by the original authors, limiting us to share it publicly.
 
 
-
 2) extension:
 
   a) app-source-code:
