@@ -42,7 +42,22 @@ in this direction.
 
           sudo -H pip2 install --upgrade pip
 
-          sudo pip2 install seaborn
+          pip2 install --user -U seaborn
+
+          pip2 install -U --user backports.functools_lru_cache
+
+          # in the root dir of the replication repository
+
+          cd ./replication/
+          bash plot-all.sh
+
+          # or for 1
+
+          cd ./replication/results/results/benchmark-app/all-emitters-all-rate/
+          python2 graph.py
+          
+          
+          
 
          It is important to note that all measurements are shared. So one can draw graphs using any library. 
 
