@@ -28,19 +28,29 @@ in this direction.
 
           i) Tested on Ubuntu 18.04.5 LTS. But should work on other systems. 
 
+          i.1) install pip for python2 
+
+          sudo apt install python-pip
+
+          sudo -H pip2 install --upgrade pip
+
           ii) Python 2.7
 
           iii) Matplotlib 2.0
    
           sudo apt-get install python-matplotlib
 
+          or
+          
+          pip2 install --user -U python-matplotlib 
+
          iv) Seaborn: it was used for calculating confidence interval with bootstrapping. 
 
           One way to install seaborn:
 
-          sudo apt install python-pip
+          sudo apt-get install python-seaborn
 
-          sudo -H pip2 install --upgrade pip
+          or
 
           pip2 install --user -U seaborn
 
@@ -57,8 +67,6 @@ in this direction.
           python2 graph.py
           
           
-          
-
          It is important to note that all measurements are shared. So one can draw graphs using any library. 
 
          After installing these components, one can run the graph.py in different directories to draw different graphs. 
