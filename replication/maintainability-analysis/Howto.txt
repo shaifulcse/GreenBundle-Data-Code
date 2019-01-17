@@ -1,0 +1,13 @@
+To fully replicate the maintainability analysis from scratch you need two tools:  
+1. Understand (scitools.com) 
+2. DV8 (archdia.net)
+
+The results in the paper are provided in the file All.DL.xlsx.  This file provides DL scores for each of the "Bundling" and 
+"Original" versions of each of the four studied projects: SensorReadout, ColorPicker, Angulo, and AcrylicPaint.  
+
+To replicate these results yourself you need to use Understand to scan the source files of each projecct.  Understand will 
+build its own database (a .udb file).  Once the source file tree has been scanned by Understand you need to output all file
+dependencies as a Cytoscape XML file (Reports | Dependency | File Dependencies | Export Cytoscape XML).
+
+The Cytoscape XML file is the input to DV8.  Using the Cytoscape file you can use DV8 to: a) create a structure DSM and b) 
+calculate the DL metric from the structure DSM.  This should result in the DL scores reported in All.DL.xlsx.   
