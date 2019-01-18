@@ -2,7 +2,10 @@ To fully replicate the maintainability analysis from scratch you need two tools:
 1. Understand (scitools.com) 
 2. DV8 (archdia.net)
 
-The results in the paper are provided in the file All.DL.xlsx.  This file provides DL scores for each of the "Bundling" and 
+Each of these is a commercial product, which is why we can not provide them in the replication package. However both of them offer free academic licenses.
+
+The results presented in the ICSE 2019 paper "GreenBundle: An Empirical Study on the Energy Impact of Bundled Processing" 
+are provided in the file All.DL.xlsx.  This file provides DL scores for each of the "Bundling" and 
 "Original" versions of each of the four studied projects: SensorReadout, ColorPicker, Angulo, and AcrylicPaint.  
 
 To replicate these results yourself you need to use Understand to scan the source files of each projecct.  Understand will 
