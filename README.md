@@ -26,55 +26,56 @@ in this direction.
 
           Requirements for running the python scripts for drawing graphs:
 
-###              i) Tested on Ubuntu 18.04.5 LTS. But should work on other systems. 
+###          i) Tested on Ubuntu 18.04.5 LTS. But should work on other systems. 
 
-####             ii) install pip for python2 
+####          i.1) install pip for python2 
 
-                        sudo apt install python-pip
+          sudo apt install python-pip
 
-                        sudo -H pip2 install --upgrade pip
+          sudo -H pip2 install --upgrade pip
 
-###              iii) Python 2.7
+###          ii) Python 2.7
 
-###              iii) Matplotlib 2.0
+###          iii) Matplotlib 2.0
    
-                      sudo apt-get install python-matplotlib
+          sudo apt-get install python-matplotlib
 
-                       or
+          or
           
-                      pip2 install --user -U python-matplotlib 
+          pip2 install --user -U python-matplotlib 
 
-###               iv) Seaborn: it was used for calculating confidence interval with bootstrapping. 
+### iv) Seaborn: it was used for calculating confidence interval with bootstrapping. 
 
-                   One way to install seaborn:
+          One way to install seaborn:
 
-                     sudo apt-get install python-seaborn
+          sudo apt-get install python-seaborn
 
-                     or
+or
 
-                     pip2 install --user -U seaborn
+          pip2 install --user -U seaborn
 
-                     pip2 install -U --user backports.functools_lru_cache
+          pip2 install -U --user backports.functools_lru_cache
 
-          Now to Draw all the graphs.     
           # in the root dir of the replication repository
 
-                     cd ./replication/
-                     bash plot-all.sh
+          cd ./replication/
+          bash plot-all.sh
 
-          # or for drawing a specific graph
+          # or for 1
 
-                     cd ./replication/results/results/benchmark-app/all-emitters-all-rate/
-                     python2 graph.py
+          cd ./replication/results/results/benchmark-app/all-emitters-all-rate/
+          python2 graph.py
           
           
 It is important to note that all measurements are shared. So one can draw graphs using any library. 
 
+After installing these components, one can run the graph.py in different directories to draw different graphs. 
+   
    
 ## b) maintainability-analysis: 
   
-     This directory describe how to calculate the DL-score used in the paper for analyzing maintenance cost. 
-     The tool we used was made commercial by the original authors, thus limiting us to share it publicly.
+This directory describe how to calculate the DL-score used in the paper for analyzing maintenance cost. 
+The tool we used was made commercial by the original authors, thus limiting us to share it publicly.
 
 
 
@@ -84,19 +85,19 @@ It is important to note that all measurements are shared. So one can draw graphs
 
 ##  a) app-source-code:
   
-     This directory contains the source code of all the apps (benchmark and real-world apps) including their versions      
-     (original, bundling and dropping). For the bundling and dropping versions, one can modify the bundling and dropping   
-     waiting times. Source code is shared for further extensions of this research. 
+This directory contains the source code of all the apps (benchmark and real-world apps) including their versions      
+(original, bundling and dropping). For the bundling and dropping versions, one can modify the bundling and dropping   
+waiting times. Source code is shared for further extensions of this research. 
   
  
 
 ##  b) apks:
 
-    This directory contains some of the sample apks of the selected versions of the benchmark and real-world apps. 
-    This is for quick demonstraton in case building those apps from the source code is difficult (e.g., no Android 
-    Studio or similar tools are already installed). The benchmark app has only one version, because one can set 
-    the type of version at run-time (noBundling, Bundling, Dropping and other parameters such as bundling/dropping 
-    waiting time). 
+This directory contains some of the sample apks of the selected versions of the benchmark and real-world apps. 
+This is for quick demonstraton in case building those apps from the source code is difficult (e.g., no Android 
+Studio or similar tools are already installed). The benchmark app has only one version, because one can set 
+the type of version at run-time (noBundling, Bundling, Dropping and other parameters such as bundling/dropping 
+waiting time). 
 
 # Licensing
   
