@@ -69,7 +69,6 @@ or
           
 It is important to note that all measurements are shared. So one can draw graphs using any library. 
 
-After installing these components, one can run the graph.py in different directories to draw different graphs. 
    
    
 ## b) maintainability-analysis: 
