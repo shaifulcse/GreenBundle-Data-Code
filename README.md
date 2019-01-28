@@ -26,25 +26,25 @@ in this direction.
 
           Requirements for running the python scripts for drawing graphs:
 
-###          i) Tested on Ubuntu 18.04.5 LTS. But should work on other systems. 
+### i) Tested on Ubuntu 18.04.5 LTS. But should work on other systems. 
 
-####          i.1) install pip for python2 
+#### ii) install pip for python2 
 
           sudo apt install python-pip
 
           sudo -H pip2 install --upgrade pip
 
-###          ii) Python 2.7
+####  iii) Python 2.7
 
-###          iii) Matplotlib 2.0
+####  iv) Matplotlib 2.0
    
           sudo apt-get install python-matplotlib
 
-          or
+or
           
           pip2 install --user -U python-matplotlib 
 
-### iv) Seaborn: it was used for calculating confidence interval with bootstrapping. 
+#### iv) Seaborn: it was used for calculating confidence interval with bootstrapping. 
 
           One way to install seaborn:
 
@@ -61,7 +61,7 @@ or
           cd ./replication/
           bash plot-all.sh
 
-          # or for 1
+          # or for drawing a specific graph
 
           cd ./replication/results/results/benchmark-app/all-emitters-all-rate/
           python2 graph.py
